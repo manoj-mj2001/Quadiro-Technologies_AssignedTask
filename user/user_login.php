@@ -42,7 +42,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 max-width: 100%;
                 margin-top: 80px;
                 padding: 15px;
-                border-radius: 0;
+             
             }
 
             h3 {
